@@ -16,8 +16,10 @@
 ## Conflict Reflection
 
 1. Why did the intentional conflict happen?
+Both students tried to edit the same line without pulling the latest version yet
 
 2. How did you resolve it?
+We used the Merge Editor to compare the two versions along with the orginal version. We edited it and did a final merge
 
 3. ## Give two practices that can reduce unnecessary Git conflicts on a real team.
    -
