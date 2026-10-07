@@ -4,8 +4,8 @@
 
 - Student A: Kat Cheng
 - GitHub username: Katcheng623
-- Student B:
-- GitHub username:
+- Student B: Dylan Millage
+- GitHub username: dylanmillage
 
 ## Branch Work
 
@@ -19,6 +19,5 @@
 
 2. How did you resolve it?
 
-3. Give two practices that can reduce unnecessary Git conflicts on a real team.
-   -
+3. ## Give two practices that can reduce unnecessary Git conflicts on a real team.
    -
