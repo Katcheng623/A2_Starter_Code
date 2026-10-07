@@ -20,4 +20,4 @@
 2. How did you resolve it?
 
 3. ## Give two practices that can reduce unnecessary Git conflicts on a real team.
-   -
+   - We can describe earlier what we are going to be working on in the codebase, so we do not edit the same line of the same file. We can push and pull eachothers frequently to always have the updated version on both ends.
