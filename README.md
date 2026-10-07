@@ -9,9 +9,9 @@
 
 ## Branch Work
 
-- Feature branch created:
-- What changed on the branch:
-- Who merged it into `main`:
+- Feature branch created: Yes, branch was created
+- What changed on the branch: It added "Feature-about" branch
+- Who merged it into `main`: Student B merged it into main
 
 ## Conflict Reflection
 
